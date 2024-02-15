@@ -3,5 +3,5 @@ from django.http import HttpResponse
 
 # Create your views here.
 
-def index(request):
+def contactus(request):
     return HttpResponse("Hello, world. You're at the CERSGIS contact us page.")
